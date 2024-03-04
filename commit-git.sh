@@ -8,7 +8,8 @@ echo "sndn $@"
 for folder in "${folders[@]}"; do
     echo "Switching to branch in $folder..."
     # Change directory to the current folder
-    cd $folder
-    # Run git checkout command
-    git commit -m "ewundhdwje"
+    cd $folders
+    
+    ./commit_script.sh
+
 done
