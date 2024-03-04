@@ -96,7 +96,7 @@ function App(): JSX.Element {
               justifyContent: 'center',
               alignSelf: 'center',
               fontSize: 32
-            }} >Hello</Text>
+            }} >3rd</Text>
             <MagicText 
               width={200}
               height={200}
