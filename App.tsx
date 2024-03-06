@@ -96,7 +96,7 @@ function App(): JSX.Element {
               justifyContent: 'center',
               alignSelf: 'center',
               fontSize: 32
-            }} >multi-repo</Text>
+            }} >new0001</Text>
             <MagicText 
               width={200}
               height={200}
